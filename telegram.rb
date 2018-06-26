@@ -5,7 +5,7 @@ url = "https://api.telegram.org/bot"    #반복되는 부분을 url이라는 변
 
 # +bot+token(봇파더에 있다)+/sendMessage?chat_id=XXX&text=hello"
 
-token = "397628463:AAEC4uGnenoBkFna1a3FLbXTdqW-yqCgS2U"
+token = " "
 
 id = " "     #챗봇 아이디 말고 내 아이디 넣어야 함 메시지 보낼 때는
 msg = URI.encode("와우 행복한 점심시간")
