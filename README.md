@@ -27,3 +27,21 @@
 
   - movie.rb
 
+
+
+- 18. 07 .04  Wed
+
+  ***다음웹툰 json 가지고 놀기**
+
+  - webtoon.rb
+  - webtoon2.rb
+
+  ***영화진흥위원회 json 공개 api 이용**
+
+  - boxoffice.rb
+
+  ***css 스타일시트**
+
+  - scrap.html
+  - css.rb
+  - style.css

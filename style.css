@@ -1,0 +1,12 @@
+p {color: brown;}
+
+#name {color: tan;}
+
+.important {color: firebrick;}
+/* class는 .으로 부른다 */
+
+table {color: violet;}
+
+.primary {color: goldenrod}
+.secondary {color: grey}
+.success {color: olivedrab}
