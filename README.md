@@ -45,3 +45,11 @@
   - scrap.html
   - css.rb
   - style.css
+
+
+
+- 18 .07 .12  Thu
+
+  ***부트스트랩 bootstrap 의 12개 그리드 이해**
+
+  - grid.html
